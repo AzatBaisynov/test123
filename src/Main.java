@@ -3,7 +3,9 @@
 public class Main {
     public static void main(String[] args) {
        Shtativ shtativ = new Shtativ();
-       ShtativPhoneable shtativ2 = new Shtativ();
+
+
+        System.out.println("HELLO WORLD");
 
     }
 }
